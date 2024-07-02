@@ -4,3 +4,4 @@ pwinput==1.0.2
 setuptools==65.5.0
 wheel==0.37.1
 wincertstore==0.2
+these are the requirements
